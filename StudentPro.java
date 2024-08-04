@@ -444,8 +444,6 @@ class StudentFrame{
             }
         });
        
-        
-  
         //JTABPANE BOUNDS
         tb.setBounds(20,20,900,700);
         tb.add("REGISTRATION",p1);
